@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Martha Taffa
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,10 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
-
+role: Web Engineer Intern 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Veryable
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
